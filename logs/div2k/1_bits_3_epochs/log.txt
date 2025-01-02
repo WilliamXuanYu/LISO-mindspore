@@ -1,0 +1,4 @@
+epoch, val.encoder_mse, val.decoder_loss, val.decoder_acc, val.cover_score, val.generated_score, val.ssim, val.psnr, val.bpp, train.encoder_mse, train.decoder_loss, train.decoder_acc, train.cover_score, train.generated_score, epoch
+1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1
+2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2
+3, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 3
